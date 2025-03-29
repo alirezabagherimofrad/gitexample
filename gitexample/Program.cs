@@ -11,7 +11,7 @@
             Console.WriteLine("Haj Bagheri");
             Console.WriteLine("Dash bagher");
             Console.WriteLine("hulk");
-            Console.WriteLine()
+            Console.WriteLine("qewee");
         }
 
         [hassan]
