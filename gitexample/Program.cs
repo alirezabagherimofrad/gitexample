@@ -4,8 +4,15 @@
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Hello, World!");
-            Console.WriteLine();
+            Console.WriteLine("Alireza abgheri");
+        }
+
+        [hassan]
+        public string gggg(string name)
+        {
+            return name;
         }
 
     }
